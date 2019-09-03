@@ -95,5 +95,11 @@ Run As –> Maven clean
 Maven –> Update Project
 Build
 
+---------
+2019-09-03
+
+맥북에서 설치는 보류하고 프로젝트 하나 완료.
+JAVA, Mybatis, Mysql, jQuery, Android Studio를 이용한 WebApp
+
 
 
